@@ -1,4 +1,4 @@
-### Octavio Augusto 👋
+### Olá eu sou o Octavio Augusto !! 👋
 - 🔭 Aprendiz na area de Tecnologia da Informação
 - 🌱 Estudando de Sistema De Informações - PUC Barreiro
 - 📫 octavio.peregrino80@gmail.com
