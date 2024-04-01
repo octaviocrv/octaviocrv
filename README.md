@@ -1,5 +1,5 @@
 ### Olá eu sou o Octavio Augusto !! 👋
-- 🔭 Suporte De Implantação TI 
+- 🔭 Developer @Nerus
 - 🌱 Estudando de Sistema De Informações - PUC Barreiro
 - 📫 octavio.peregrino80@gmail.com
 
