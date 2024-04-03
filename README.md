@@ -1,9 +1,10 @@
-### Olá eu sou o Octavio Augusto !! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas&weight=800&size=21&pause=1000&color=38C2FF&random=false&width=435&lines=Ol%C3%A1+me+chamo+Oct%C3%A1vio)](https://git.io/typing-svg)
+
 - 🔭 Developer @Nerus
 - 🌱 Estudando de Sistema De Informações - PUC Barreiro
 - 📫 octavio.peregrino80@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas&weight=800&size=21&pause=1000&color=38C2FF&random=false&width=435&lines=Ol%C3%A1+me+chamo+Oct%C3%A1vio)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/octaviocrv">
