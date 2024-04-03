@@ -3,7 +3,6 @@
 - 🌱 Estudando de Sistema De Informações - PUC Barreiro
 - 📫 [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)
 
-- 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=octaviocrv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=octaviocrv&layout=compact&langs_count=7&theme=dark)
 
