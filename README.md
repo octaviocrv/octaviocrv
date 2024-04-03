@@ -3,7 +3,7 @@
 - 🌱 Estudando de Sistema De Informações - PUC Barreiro
 - 📫 octavio.peregrino80@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas&weight=800&size=21&pause=1000&color=38C2FF&random=false&width=435&lines=Ol%C3%A1+me+chamo+Oct%C3%A1vio)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/octaviocrv">
