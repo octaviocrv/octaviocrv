@@ -1,6 +1,6 @@
 ## Ola muito prazer me chamo Octávio Augusto, seja bem-vindo !!
 - 🔭 Developer @Nerus
-- 🌱 Estudando de Sistema De Informações - PUC Barreiro
+- 🌱 Estudando de Sistema De Informações - PUC Minas
 - 📫 [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=octaviocrv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
