@@ -2,9 +2,8 @@
 
 Meu nome é **Octávio Augusto**.  
 
-- 🔭 Desenvolvedor @Nerus  
-- 🎓 Graduando em **Sistemas de Informação** pela **PUC Minas**  
-- 📫 Contato: [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)  
+- Sistemas De Informação
+- Front-end Developer | React | TypeScript | JavaScript | SQL 
 
 ---
 
