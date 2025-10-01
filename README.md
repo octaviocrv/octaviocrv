@@ -2,6 +2,7 @@
 
 I am an enthusiastic **Front-End Developer** with a strong focus on building scalable and well-structured applications.  
 Currently, I work as a **Junior Front-End Analyst at Nerus**, where I have been contributing for over a year.  
+In total, I have **3+ years of experience** in software development, especially in **React, TypeScript, JavaScript, and SQL**.  
 
 I am also an **undergraduate student in Information Systems at PUC Minas**, constantly improving my skills and exploring best practices in software engineering.  
 
@@ -11,6 +12,13 @@ I am also an **undergraduate student in Information Systems at PUC Minas**, cons
 - **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3  
 - **Back-End & Database:** SQL, C# (basic)  
 - **Other:** Git, Agile Practices  
+
+---
+
+### 📫 How to reach me
+- Email: [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)  
+- LinkedIn: [Octávio Augusto Peregrino](https://www.linkedin.com/in/octávio-augusto-peregrino-492261192/)  
+- Instagram: [@octaviocrv](https://instagram.com/octaviocrv)  
 
 ---
 
