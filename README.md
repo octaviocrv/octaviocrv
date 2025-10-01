@@ -9,9 +9,9 @@ I am also an **undergraduate student in Information Systems at PUC Minas**, cons
 ---
 
 ### Tech Stack
-- **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3  
-- **Back-End & Database:** SQL, C# (basic)  
-- **Other:** Git, Agile Practices  
+- **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3 
+- **Back-End & Database:** SQL, C#, C
+- **Other:** Git, Agile Practices, CI/CD
 
 
 ## Tecnologias
