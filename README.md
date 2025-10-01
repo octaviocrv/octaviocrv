@@ -8,14 +8,14 @@ I am also an **undergraduate student in Information Systems at PUC Minas**, cons
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3  
 - **Back-End & Database:** SQL, C# (basic)  
 - **Other:** Git, Agile Practices  
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 - Email: [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)  
 - LinkedIn: [Octávio Augusto Peregrino](https://www.linkedin.com/in/octávio-augusto-peregrino-492261192/)  
 - Instagram: [@octaviocrv](https://instagram.com/octaviocrv)  
