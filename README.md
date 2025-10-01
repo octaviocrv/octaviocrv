@@ -1,11 +1,19 @@
-## Olá, seja bem-vindo(a)!
+## Hi, I'm Octávio Augusto 👋  
 
-Meu nome é **Octávio Augusto**.  
+I am an enthusiastic **Front-End Developer** with a strong focus on building scalable and well-structured applications.  
+Currently, I work as a **Junior Front-End Analyst at Nerus**, where I have been contributing for over a year.  
+In total, I have **3+ years of experience** in software development, especially in **React, TypeScript, JavaScript, and SQL**.  
 
-- Undergraduate in Information Systems @pucminas
-- Front-end Developer | React | TypeScript | JavaScript | SQL
-- Junior Front-End Analyst at Nerus 
+I am also an **undergraduate student in Information Systems at PUC Minas**, constantly improving my skills and exploring best practices in software engineering.  
 
+---
+
+### 🛠️ Tech Stack
+- **Front-End:** React, TypeScript, JavaScript, HTML5, CSS3  
+- **Back-End & Database:** SQL, C# (basic)  
+- **Other:** Git, Agile Practices  
+
+---
 
 ## Tecnologias
 
