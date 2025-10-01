@@ -13,14 +13,6 @@ I am also an **undergraduate student in Information Systems at PUC Minas**, cons
 - **Back-End & Database:** SQL, C# (basic)  
 - **Other:** Git, Agile Practices  
 
----
-
-### How to reach me
-- Email: [octavio.peregrino80@gmail.com](mailto:octavio.peregrino80@gmail.com)  
-- LinkedIn: [Octávio Augusto Peregrino](https://www.linkedin.com/in/octávio-augusto-peregrino-492261192/)  
-- Instagram: [@octaviocrv](https://instagram.com/octaviocrv)  
-
----
 
 ## Tecnologias
 
